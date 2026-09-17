@@ -1,0 +1,50 @@
+MIT License with Trademark & Commercial Backend Reservation
+
+Copyright (c) 2026 Maximiliano Javier Vargas Dani / AnywhereDesign by TFTE
+Official Intellectual Property Registration: Spanish Ministry of Culture (Expediente: 00765-03267660 / Asiento Registral REGAGE26e00081044871)
+International Protection: Berne Convention for the Protection of Literary and Artistic Works
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice, this permission notice, and the following reservation clauses
+shall be included in all copies or substantial portions of the Software.
+
+─────────────────────────────────────────────────────────────────────────────
+TRADEMARK, BRANDING & COMMERCIAL SERVICES RESERVATION
+─────────────────────────────────────────────────────────────────────────────
+
+1. TRADEMARK: This license does NOT grant any right to use the trade names,
+   trademarks, service marks, logos, or domain names of "AnywhereDesign", 
+   "AnywhereDesign by TFTE", or "TFTE", except as required for reasonable 
+   and customary use in describing the origin of the Software.
+
+2. COMMERCIAL SERVICES & BACKEND INFRASTRUCTURE: This license applies strictly 
+   to the open-source client wrappers, CLI bridge connectors, and IDE extensions 
+   expressly published in this repository. 
+   
+   It does NOT license, grant access to, or permit the reverse-engineering or
+   unauthorized reproduction of:
+   a) The proprietary license validation server and Supabase cryptographic RPC schemas.
+   b) The managed high-availability OVH VPS relay server network and authentication tokens.
+   c) The compiled standalone installer packages and proprietary distribution binaries.
+
+3. SOBERANÍA Y REGISTRO DE PROPIEDAD: Obra inscrita y protegida conforme al 
+   Real Decreto Legislativo 1/1996 (Ley de Propiedad Intelectual de España) 
+   y tratados internacionales de la OMPI/WIPO.
+
+─────────────────────────────────────────────────────────────────────────────
+DISCLAIMER OF WARRANTY
+─────────────────────────────────────────────────────────────────────────────
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
