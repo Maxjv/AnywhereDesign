@@ -3,15 +3,17 @@
 # AnywhereDesign by TFTE
 ### The First 100% Local-First Voice Cockpit for Web Development
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://github.com/TFTE/AnywhereDesign)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square)](https://github.com/TFTE/AnywhereDesign/releases)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://github.com/Maxjv/AnywhereDesign)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square)](https://github.com/Maxjv/AnywhereDesign/releases)
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/Maxjv.anywheredesign-cockpit?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)](https://marketplace.visualstudio.com/items?itemName=Maxjv.anywheredesign-cockpit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Downloads](https://img.shields.io/badge/downloads-Windows-blueviolet.svg?style=flat-square)](https://github.com/TFTE/AnywhereDesign/releases)
+[![Downloads](https://img.shields.io/badge/downloads-Windows-blueviolet.svg?style=flat-square)](https://github.com/Maxjv/AnywhereDesign/releases)
 [![Server Status](https://img.shields.io/badge/runtime-OVH%20VPS%20Active-emerald.svg?style=flat-square)](https://anywheredesign.site)
 
 **Direct your code by voice, preview in real time on mobile/tablet, and let local AI agents execute refactors on your workstation. Zero cloud lock-in. Zero NDA leakage.**
 
-[Descargar Instalador (.exe)](https://github.com/TFTE/AnywhereDesign/releases/latest) • [Documentación](#quick-start) • [Manifiesto Local-First](#the-local-first-manifesto) • [Arquitectura](#architecture) • [Licencia](#license)
+[Descargar Instalador (.exe)](https://github.com/Maxjv/AnywhereDesign/releases/latest) • [Extensión VS Code / Cursor](https://marketplace.visualstudio.com/items?itemName=Maxjv.anywheredesign-cockpit) • [Documentación](#quick-start) • [Manifiesto Local-First](#the-local-first-manifesto) • [Arquitectura](#architecture) • [Licencia](#license)
+
 
 </div>
 
