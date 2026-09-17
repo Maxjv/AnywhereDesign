@@ -5,7 +5,7 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://github.com/Maxjv/AnywhereDesign)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square)](https://github.com/Maxjv/AnywhereDesign/releases)
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/Maxjv.anywheredesign-cockpit?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)](https://marketplace.visualstudio.com/items?itemName=Maxjv.anywheredesign-cockpit)
+[![VS Code Marketplace](https://img.shields.io/badge/VS_Code_Marketplace-v1.0.0-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Maxjv.anywheredesign-cockpit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Downloads](https://img.shields.io/badge/downloads-Windows-blueviolet.svg?style=flat-square)](https://github.com/Maxjv/AnywhereDesign/releases)
 [![Server Status](https://img.shields.io/badge/runtime-OVH%20VPS%20Active-emerald.svg?style=flat-square)](https://anywheredesign.site)
