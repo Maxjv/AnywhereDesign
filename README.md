@@ -96,8 +96,12 @@ Instala la extensión oficial **AnywhereDesign: Local-First Runtime & Remote Coc
 
 ## 🎙️ Supported AI Agent Engines
 
-- **Anthropic Claude Code CLI:** Manipulación semántica ultrarrápida, generación de diffs y refactorización de repositorios.
-- **Google Antigravity / Gemini Engine:** Modelos de razonamiento profundo (Gemini 3.1 Pro High/Low, Gemini 3.8 Flash, Gemini 3.7 Flash) con delimitación de contexto local.
+Los modelos y límites disponibles dependen directamente del tipo de cuenta y autenticación local que tengas configurada en cada CLI:
+
+- **Google Antigravity / Gemini Engine (`agy` CLI):**  
+  Soporta tanto **cuentas gratuitas de Google** (con cuota diaria gratuita y límites estándar) como suscripciones avanzadas de Google Workspace o Google One AI Premium (acceso a modelos de razonamiento profundo como Gemini 3.1 Pro High/Low, Gemini 3.8 Flash y Gemini 3.7 Flash). Permite comenzar a coste $0.
+- **Anthropic Claude Code CLI:**  
+  Manipulación semántica y refactorizaciones directas en el árbol de archivos. **Requiere obligatoriamente suscripción de pago** (Claude Pro / Team / Enterprise o saldo prepago de API en Anthropic Console). No dispone de plan gratuito para el uso del CLI.
 
 ---
 
