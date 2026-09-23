@@ -14,7 +14,10 @@
 
 [Descargar Instalador (.exe)](https://github.com/Maxjv/AnywhereDesign/releases/latest) • [Extensión VS Code / Cursor](https://marketplace.visualstudio.com/items?itemName=Maxjv.anywheredesign-cockpit) • [Documentación](#quick-start) • [Manifiesto Local-First](#the-local-first-manifesto) • [Arquitectura](#architecture) • [Licencia](#license)
 
+</div>
 
+<div align="center">
+  <img src="AnywhereDesign_CouchCoder_v2.gif" alt="AnywhereDesign Live Voice Demo" width="680" />
 </div>
 
 ---
@@ -99,14 +102,13 @@ Instala la extensión oficial **AnywhereDesign: Local-First Runtime & Remote Coc
 AnywhereDesign se conecta a los agentes CLI locales que ya tengas instalados y autenticados en tu máquina. Los modelos y cuotas disponibles dependen directamente del tipo de cuenta y suscripción con la que estés logueado en cada herramienta:
 
 - **Google Antigravity / Gemini Engine (`agy` CLI):**  
-  - **Cuentas Gratuitas Soportadas ($0):** Puedes comenzar con una cuenta gratuita estándar de Google (@gmail.com). El CLI de Antigravity permite utilizar los modelos gratuitos asignados (sujeto a las cuotas y límites diarios estándar de Google).
+  - **Cuentas Gratuitas Soportadas ($0):** Puedes comenzar con una cuenta gratuita estándar de Google (`@gmail.com`). El CLI de Antigravity permite utilizar los modelos gratuitos asignados (con cuotas y límites diarios estándar de Google).
   - **Cuentas Pro / Enterprise:** Si dispones de suscripción de pago (Google One AI Premium o Google Workspace empresarial), el CLI desbloquea automáticamente los modelos de razonamiento profundo y mayores ventanas de contexto (**Gemini 3.1 Pro High/Low**, **Gemini 3.8 Flash**, **Gemini 3.7 Flash**).
   - *Ventaja:* Permite comenzar y probar el flujo de trabajo a coste $0.
 
 - **Anthropic Claude Code CLI (`claude` CLI):**  
   - **Requiere Suscripción de Pago Obligatoria:** Claude Code **NO funciona con cuentas gratuitas**. Para utilizar este motor es indispensable contar con una suscripción activa de pago (**Claude Pro**, **Claude Team** o **Enterprise**) o saldo prepagado de API en Anthropic Console.
   - *Ventaja:* Manipulación semántica ultrarrápida del árbol de archivos, generación precisa de diffs y refactorización multi-archivo de alto rendimiento.
-
 
 ---
 
