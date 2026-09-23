@@ -96,12 +96,17 @@ Instala la extensión oficial **AnywhereDesign: Local-First Runtime & Remote Coc
 
 ## 🎙️ Supported AI Agent Engines
 
-Los modelos y límites disponibles dependen directamente del tipo de cuenta y autenticación local que tengas configurada en cada CLI:
+AnywhereDesign se conecta a los agentes CLI locales que ya tengas instalados y autenticados en tu máquina. Los modelos y cuotas disponibles dependen directamente del tipo de cuenta y suscripción con la que estés logueado en cada herramienta:
 
 - **Google Antigravity / Gemini Engine (`agy` CLI):**  
-  Soporta tanto **cuentas gratuitas de Google** (con cuota diaria gratuita y límites estándar) como suscripciones avanzadas de Google Workspace o Google One AI Premium (acceso a modelos de razonamiento profundo como Gemini 3.1 Pro High/Low, Gemini 3.8 Flash y Gemini 3.7 Flash). Permite comenzar a coste $0.
-- **Anthropic Claude Code CLI:**  
-  Manipulación semántica y refactorizaciones directas en el árbol de archivos. **Requiere obligatoriamente suscripción de pago** (Claude Pro / Team / Enterprise o saldo prepago de API en Anthropic Console). No dispone de plan gratuito para el uso del CLI.
+  - **Cuentas Gratuitas Soportadas ($0):** Puedes comenzar con una cuenta gratuita estándar de Google (@gmail.com). El CLI de Antigravity permite utilizar los modelos gratuitos asignados (sujeto a las cuotas y límites diarios estándar de Google).
+  - **Cuentas Pro / Enterprise:** Si dispones de suscripción de pago (Google One AI Premium o Google Workspace empresarial), el CLI desbloquea automáticamente los modelos de razonamiento profundo y mayores ventanas de contexto (**Gemini 3.1 Pro High/Low**, **Gemini 3.8 Flash**, **Gemini 3.7 Flash**).
+  - *Ventaja:* Permite comenzar y probar el flujo de trabajo a coste $0.
+
+- **Anthropic Claude Code CLI (`claude` CLI):**  
+  - **Requiere Suscripción de Pago Obligatoria:** Claude Code **NO funciona con cuentas gratuitas**. Para utilizar este motor es indispensable contar con una suscripción activa de pago (**Claude Pro**, **Claude Team** o **Enterprise**) o saldo prepagado de API en Anthropic Console.
+  - *Ventaja:* Manipulación semántica ultrarrápida del árbol de archivos, generación precisa de diffs y refactorización multi-archivo de alto rendimiento.
+
 
 ---
 
