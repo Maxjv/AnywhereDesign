@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="AnywhereDesign_CouchCoder_v2.gif" alt="AnywhereDesign Live Voice Demo" width="680" />
+  <video src="https://anywheredesign.vercel.app/AnywhereDesign_CouchCoder_v2_FINAL.mp4" width="680" controls autoplay muted loop></video>
 </div>
 
 ---
