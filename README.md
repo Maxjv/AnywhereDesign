@@ -14,10 +14,9 @@
 
 [Descargar Instalador (.exe)](https://github.com/Maxjv/AnywhereDesign/releases/latest) • [Extensión VS Code / Cursor](https://marketplace.visualstudio.com/items?itemName=Maxjv.anywheredesign-cockpit) • [Documentación](#quick-start) • [Manifiesto Local-First](#the-local-first-manifesto) • [Arquitectura](#architecture) • [Licencia](#license)
 
-</div>
-
 <div align="center">
-  <video src="https://anywheredesign.vercel.app/AnywhereDesign_CouchCoder_v2_FINAL.mp4" width="680" controls autoplay muted loop></video>
+  <video src="https://github.com/user-attachments/assets/bde124ff-13c8-4d68-941a-9e04894cc6da" controls="controls" width="680" style="max-width: 100%;">
+  </video>
 </div>
 
 ---
