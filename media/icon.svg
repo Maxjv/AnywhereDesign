@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="soundwaveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c2ff" />
+      <stop offset="30%" stop-color="#00efff" />
+      <stop offset="50%" stop-color="#00f5df" />
+      <stop offset="70%" stop-color="#0ae3a3" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <!-- 7 Soundwave Capsule Bars (Exact measurements extracted from official AnywhereDesign logo) -->
+  <rect x="189" y="467" width="44" height="90" rx="22" fill="url(#soundwaveGrad)" />
+  <rect x="284" y="407" width="44" height="210" rx="22" fill="url(#soundwaveGrad)" />
+  <rect x="379" y="345" width="44" height="334" rx="22" fill="url(#soundwaveGrad)" />
+  <rect x="490" y="234" width="44" height="556" rx="22" fill="url(#soundwaveGrad)" />
+  <rect x="604" y="345" width="44" height="334" rx="22" fill="url(#soundwaveGrad)" />
+  <rect x="700" y="407" width="44" height="210" rx="22" fill="url(#soundwaveGrad)" />
+  <rect x="794" y="467" width="44" height="90" rx="22" fill="url(#soundwaveGrad)" />
+</svg>
